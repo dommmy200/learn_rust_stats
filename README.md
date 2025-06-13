@@ -1,3 +1,3 @@
-** Learning Statistical operations with Rust
+## Learning Statistical operations with Rust
 
-*** Calculating the median of both odd and even numbers
+### Calculating the median of both odd and even numbers
